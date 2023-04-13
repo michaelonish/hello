@@ -1,0 +1,10 @@
+{
+"name": "michae52/328/hello", "authors" : [
+  {
+    "name": "Michael Onishchenko",
+    "email": "onishchenkomike@yahoo.com"
+  }
+],
+      "require": {"bcosca/fatfree-core":  "dev-master"
+      }
+}
